@@ -1,0 +1,33 @@
+{
+  "shadowOpacity" : 0.4,
+  "shadowHeight" : 0.07981150793650793,
+  "symbol" : {
+    "name" : "hammer.fill",
+    "family" : "sf-symbols"
+  },
+  "topColor" : {
+    "alpha" : 1,
+    "green" : 0.4344540238380432,
+    "blue" : 0.9834880232810974,
+    "red" : 0.11859359592199326
+  },
+  "bottomColor" : {
+    "alpha" : 1,
+    "green" : 0.7602072954177856,
+    "blue" : 0.9904711842536926,
+    "red" : 0.04136895388364792
+  },
+  "iconOffset" : [
+    0,
+    0
+  ],
+  "version" : 1,
+  "symbolColor" : {
+    "alpha" : 1,
+    "green" : 1,
+    "blue" : 1,
+    "red" : 0.9999960065
+  },
+  "id" : "24670896-9CE6-40DD-86CB-111B3E0DEB8D",
+  "iconScale" : 0.7150191320723549
+}

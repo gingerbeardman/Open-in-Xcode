@@ -1,0 +1,29 @@
+{
+    "bugs": "https://github.com/gingerbeardman/OpenInXcode.novaextension/issues",
+    "description": "Opens the current workspace in Xcode",
+    "funding": "https://ko-fi.com/gingerbeardman",
+    "homepage": "https://www.gingerbeardman.com",
+    "identifier": "com.gingerbeardman.OpenInXcode",
+    "license": "MIT",
+    "name": "Open in Xcode",
+    "organization": "gingerbeardman",
+    "repository": "https://github.com/gingerbeardman/OpenInXcode.novaextension",
+    "version": "1.0.0",
+
+    "categories": ["commands"],
+
+    "main": "main.js",
+
+    "entitlements": {
+        "process": true
+    },
+
+    "commands": {
+        "extensions": [
+            {
+                "title": "Open in Xcode",
+                "command": "xcode.openWorkspace"
+            }
+        ]
+    }
+}
