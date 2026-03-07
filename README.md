@@ -21,4 +21,4 @@ Recommended download from [Nova Extensions](https://extensions.panic.com/extensi
 
 ## Licence
 
-MIT
+[MIT](/LICENSE)
