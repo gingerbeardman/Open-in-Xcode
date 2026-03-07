@@ -1,6 +1,6 @@
 {
     "bugs": "https://github.com/gingerbeardman/Open-in-Xcode/issues",
-    "description": "Opens the current workspace in Xcode",
+    "description": "Opens the current workspace or file in Xcode",
     "funding": "https://ko-fi.com/gingerbeardman",
     "homepage": "https://www.gingerbeardman.com",
     "identifier": "com.gingerbeardman.OpenInXcode",
@@ -8,7 +8,7 @@
     "name": "Open in Xcode",
     "organization": "gingerbeardman",
     "repository": "https://github.com/gingerbeardman/Open-in-Xcode",
-    "version": "2.0.0",
+    "version": "2.0.1",
 
     "categories": ["commands"],
 
