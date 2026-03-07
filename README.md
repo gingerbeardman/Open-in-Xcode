@@ -1,10 +1,13 @@
 # Open in Xcode
 
-A [Nova](https://nova.app) extension that opens the current workspace in Xcode.
+A [Nova](https://nova.app) extension that opens the current workspace or file in Xcode.
 
 ## Usage
 
-Invoke via **Extensions > Open in Xcode** or search for "Open in Xcode" in the Command Palette.
+Invoke via **Extensions > Open in Xcode** or **Extensions > Open File in Xcode**, or search in the Command Palette.
+
+- **Open in Xcode** — opens the workspace folder in Xcode
+- **Open File in Xcode** — opens the current file in Xcode, within the project context if an `.xcworkspace` or `.xcodeproj` is present
 
 ## More Info
 

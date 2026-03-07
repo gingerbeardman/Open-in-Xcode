@@ -8,14 +8,15 @@
     "name": "Open in Xcode",
     "organization": "gingerbeardman",
     "repository": "https://github.com/gingerbeardman/Open-in-Xcode",
-    "version": "1.0.1",
+    "version": "2.0.0",
 
     "categories": ["commands"],
 
     "main": "main.js",
 
     "entitlements": {
-        "process": true
+        "process": true,
+        "filesystem": "readonly"
     },
 
     "commands": {
@@ -23,6 +24,10 @@
             {
                 "title": "Open in Xcode",
                 "command": "xcode.openWorkspace"
+            },
+            {
+                "title": "Open File in Xcode",
+                "command": "xcode.openFile"
             }
         ]
     }
